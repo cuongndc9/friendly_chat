@@ -6,5 +6,5 @@ You can also do it by opening your Flutter project's Xcode project with `open io
 
 <!-- INSPIRATIONAL_QUOTE_START -->
 Action beats perfection.
-🧑‍💻,
+👻
 <!-- INSPIRATIONAL_QUOTE_END -->
