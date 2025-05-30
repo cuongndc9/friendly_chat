@@ -6,5 +6,5 @@ You can also do it by opening your Flutter project's Xcode project with `open io
 
 <!-- INSPIRATIONAL_QUOTE_START -->
 Discomfort is the currency of your dreams.
-🐯
+🧑‍💻,
 <!-- INSPIRATIONAL_QUOTE_END -->
